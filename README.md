@@ -46,29 +46,14 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How To Manage Multiple APIs with RapidAPI (2021)](https://www.youtube.com/watch?v=NFToND6x_nI)
-- [How Core Web Vitals Will Affect Google Rankings in 2021 | Interview :: Lee Robinson](https://www.youtube.com/watch?v=-lcDZDfjekc)
-- [Build Fullstack Apps in Record Time with Blitz.js | Interview :: Brandon Bayer (2021)](https://www.youtube.com/watch?v=S9qqImLjJFY)
-- [Create an Application Backend in Clicks with the Amplify Admin UI | Interview :: Ali Spittel (2021)](https://www.youtube.com/watch?v=SvPJMwbR8ac)
-- [The Third Age of JavaScript | Interview :: Swyx (2021)](https://www.youtube.com/watch?v=Nan1hqQ90_4)
+- [ckeditor5 for vue nuxt framework](https://www.youtube.com/playlist?list=PLlwWCg6UKhA-3iaFrphvHRyjrvs1bbYle)
+
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCg3QxlYtfG3RzztxvIJ1ZUQ)
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -77,12 +62,9 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[website]: 
+[twitter]: https://twitter.com/coderzero8
+[youtube]: https://www.youtube.com/channel/UCg3QxlYtfG3RzztxvIJ1ZUQ
+[linkedin]: https://www.linkedin.com/in/jerick-mangalus-92066499/
+
 
