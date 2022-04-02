@@ -5,13 +5,17 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
+- 
 - 🥅 2021 Goals: Learn Devops Kubernetes and Cloud Services GPC AWS Microsoft Azure and Digital Ocean
 - 🥅 2021 Goals: Reach 365 Blog post this 2021 https://www.inhinyeru.com/
-- 🥅 2021 Goals: Typescript
 - 🥅 2021 Goals: Frontend Vuex Nuxt and Vue3
-- 🥅 2021 Goals: Flutter
 - 🥅 2021 Goals: Certifications 
 - 🥅 2021 Goals: Backend Laravel 8 sail and octane 
+
+- 🥅 2022 Goals: Typescript
+- 🥅 2022 Goals: Flutter
+- 🥅 2022 Goals: Cordova
+- 🥅 2022 Goals: Tailwind
 - ⚡ Fun fact: I love to  play badminton
 
 ### Spotify Playing 🎧
